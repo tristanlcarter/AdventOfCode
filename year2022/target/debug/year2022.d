@@ -1,1 +1,1 @@
-C:\Users\trist\Repos\AdventOfCode\year2022\target\debug\year2022.exe: C:\Users\trist\Repos\AdventOfCode\year2022\src\main.rs
+C:\Users\trist\Repos\AdventOfCode\year2022\target\debug\year2022.exe: C:\Users\trist\Repos\AdventOfCode\year2022\src\day1\day1.rs C:\Users\trist\Repos\AdventOfCode\year2022\src\day1\mod.rs C:\Users\trist\Repos\AdventOfCode\year2022\src\main.rs
