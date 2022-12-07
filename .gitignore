@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/year2022/.vs
+/year2022/target/.rustc_info.json
+*.cs
+/year2022/CSharp AoC/CSharp AoC/obj
+/year2022/CSharp AoC/CSharp AoC/bin/Debug/net6.0
+*.csproj
+/year2022/CSharp AoC/CSharp AoC.sln
+/year2022/CSharp AoC/.vs
+/year2022/CSharp AoC/CSharp AoC
